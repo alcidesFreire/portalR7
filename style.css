@@ -1,0 +1,38 @@
+
+.pesquisa{
+    margin-left: 250px;
+}
+.publi{
+    margin-left: 100px;
+}
+.a:hover{
+    cursor: pointer;
+}
+hr{
+   border: 1px solid;
+}
+.col-{
+    margin-left: 0;
+}
+.b:hover{
+    cursor: pointer;
+}
+#footer{
+    background-color: #007BFF;
+   color: rgb(255, 255, 255);
+   height: 207px;
+   padding: 50px;
+}
+
+.logo{
+    height: 40px;
+}
+.logos{
+    height: 35px;
+}
+.a:hover{
+    text-decoration: underline;
+}
+h7{
+    padding-top: 50px;
+}
